@@ -1,0 +1,61 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">LTE Peak DL Throughput (v120718)</string>
+
+    <string name="developer_name">By Jignesh Panchal\n HQ RAN Planning</string>
+
+    <!-- band 2 [CHAR LIMIT=20] -->
+    <string name="b2">PCS(Band 2, FDD)</string>
+
+    <!-- band 5 [CHAR LIMIT=20] -->
+    <string name="b5">Cellular(Band 5, FDD)</string>
+
+    <!-- band 13 [CHAR LIMIT=20] -->
+    <string name="b13">700MHz(Band 13,FDD)</string>
+
+    <!-- band 46 [CHAR LIMIT=20] -->
+    <string name="b46">5GHz(Band 46, LAA)</string>
+
+    <!-- band 48 [CHAR LIMIT=20] -->
+    <string name="b48">3.5GHz(Band 48, TDD)</string>
+
+    <!-- band 66 [CHAR LIMIT=20] -->
+    <string name="b66">AWS(Band 66, FDD)</string>
+
+    <!-- throughput [CHAR LIMIT=20] -->
+    <string name="nl">Number of Layers</string>
+
+    <!-- throughput [CHAR LIMIT=20] -->
+    <string name="cc">Number of CC</string>
+
+    <!-- throughput [CHAR LIMIT=20] -->
+    <string name="bandcombo">CA Combo</string>
+
+    <!-- throughput [CHAR LIMIT=20] -->
+    <string name="tput">DL Peak Throughput</string>
+
+    <!-- minimum category [CHAR LIMIT=20] -->
+    <string name="mincat">Req Min Device Cat</string>
+
+    <string name="title_activity_band_configuration">Select Band Configuration</string>
+    <string name="_2_tx_antennas">2 Tx Antennas</string>
+    <string name="_1024qam">1024QAM</string>
+    <string name="_256qam">256QAM</string>
+    <string name="_4_rx_antennas">4 Rx Antennas</string>
+    <string name="_4_tx_antennas">4 Tx Antennas</string>
+    <string name="_64qam">64QAM</string>
+    <string name="band">Band</string>
+    <string name="bandwidth_mhz">Bandwidth(MHz)</string>
+    <string name="contiguous">Contiguous</string>
+    <string name="dl_throughput">DL Throughput</string>
+    <string name="device">Device</string>
+    <string name="done">Done</string>
+    <string name="downlink_ratio">Downlink Ratio(%)</string>
+    <string name="fdd_or_tdd">FDD or TDD</string>
+    <string name="modulation">Modulation</string>
+    <string name="noncontiguous">NonContiguous</string>
+    <string name="number_of_layers">Number of Layers</string>
+    <string name="sector">Sector</string>
+    <string name="tx_rx_frequencies">Tx Rx Frequencies</string>
+
+</resources>
